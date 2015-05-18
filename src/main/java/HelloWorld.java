@@ -3,7 +3,8 @@
  */
 public class HelloWorld {
     public static void main(String[] args){
-        System.out.println("Hello ì •í•œìˆ˜ ëŒ€ë¦¬ë‹˜");
+        System.out.println("Hello ? •?•œ?ˆ˜ ??ë¦¬ë‹˜");
+        System.out.println("Hello Kim Tae Youn");
         
         }
 
