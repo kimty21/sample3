@@ -3,7 +3,7 @@
  */
 public class HelloWorld {
     public static void main(String[] args){
-        System.out.println("Hello 정한수 대리님");
+        System.out.println("Hello ktds");
         
         }
 
